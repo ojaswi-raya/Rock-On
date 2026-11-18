@@ -1,0 +1,9 @@
+# Apache (XAMPP / MAMP / shared hosting)
+DirectoryIndex index.php
+ErrorDocument 404 /404.php
+Options -Indexes
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "same-origin"
+  Header set X-Frame-Options "SAMEORIGIN"
+</IfModule>
