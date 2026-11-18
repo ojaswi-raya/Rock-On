@@ -1,0 +1,2 @@
+# The data file holds password hashes: never serve it over HTTP.
+Require all denied

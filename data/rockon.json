@@ -1,0 +1,1533 @@
+{
+    "version": 1,
+    "users": [
+        {
+            "id": "u-maya",
+            "kind": "member",
+            "name": "Maya Lee",
+            "email": "maya@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": "assets/img/av-maya.jpg",
+            "bio": "New in the city. I love early walks, friendly groups and finding new art.",
+            "interests": [
+                "Outdoors",
+                "Local outings"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-08-20T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 24,
+                "p": 4.9,
+                "r": 5,
+                "f": 4.8
+            }
+        },
+        {
+            "id": "u-ojaswi",
+            "kind": "member",
+            "name": "Ojaswi Rayamajhi",
+            "email": "ojaswi@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": "assets/img/av-ojaswi.jpg",
+            "bio": "Maths and economics student. Happy to join anything with a good view or a good puzzle.",
+            "interests": [
+                "Outdoors",
+                "Weird & Fun"
+            ],
+            "languages": [
+                "English",
+                "Nepali",
+                "Hindi"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 6,
+                "p": 4.7,
+                "r": 4.9,
+                "f": 4.8
+            }
+        },
+        {
+            "id": "u-smriti",
+            "kind": "member",
+            "name": "Smriti G C",
+            "email": "smriti@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": "assets/img/av-smriti.jpg",
+            "bio": "New to the city · enjoys early walks.",
+            "interests": [
+                "Outdoors"
+            ],
+            "languages": [
+                "English",
+                "Nepali"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 9,
+                "p": 4.8,
+                "r": 4.7,
+                "f": 4.6
+            }
+        },
+        {
+            "id": "u-clauvie",
+            "kind": "member",
+            "name": "Clauvie Belange",
+            "email": "clauvie@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": "assets/img/av-clauvie.jpg",
+            "bio": "I moved here for my bachelor’s degree and I’m slowly learning the city, one park and mural at a time. Always up for a relaxed walk, a good conversation or a very questionable drawing challenge.",
+            "interests": [
+                "Outdoors",
+                "Street art",
+                "Weird & Fun"
+            ],
+            "languages": [
+                "English",
+                "French"
+            ],
+            "joinedAt": "2026-09-10T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 12,
+                "p": 4.8,
+                "r": 4.7,
+                "f": 4.6
+            }
+        },
+        {
+            "id": "u-nour",
+            "kind": "member",
+            "name": "Nour Abdelghani",
+            "email": "nour@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": "assets/img/av-nour.jpg",
+            "bio": "Street art nerd. I host walking tours of murals most weekends.",
+            "interests": [
+                "Street art",
+                "Local outings"
+            ],
+            "languages": [
+                "English",
+                "Arabic",
+                "French"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 31,
+                "p": 4.6,
+                "r": 4.9,
+                "f": 4.9
+            }
+        },
+        {
+            "id": "u-mike",
+            "kind": "member",
+            "name": "Mike",
+            "email": "mike@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": "assets/img/av-mike.jpg",
+            "bio": "Climber, cook, occasional karaoke menace.",
+            "interests": [
+                "Outdoors",
+                "House parties"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 5,
+                "p": 4.2,
+                "r": 4.6,
+                "f": 4.8
+            }
+        },
+        {
+            "id": "u-max",
+            "kind": "member",
+            "name": "Max",
+            "email": "max@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": "assets/img/av-max.jpg",
+            "bio": "Swimmer. Will bring snacks.",
+            "interests": [
+                "Outdoors"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 8,
+                "p": 4.5,
+                "r": 4.8,
+                "f": 4.7
+            }
+        },
+        {
+            "id": "u-lina",
+            "kind": "member",
+            "name": "Lina",
+            "email": "lina@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": "assets/img/av-lina.jpg",
+            "bio": "Design student who likes picnics and odd games.",
+            "interests": [
+                "Weird & Fun",
+                "Outdoors"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 4,
+                "p": 4.9,
+                "r": 4.9,
+                "f": 4.4
+            }
+        },
+        {
+            "id": "u-sam",
+            "kind": "member",
+            "name": "Sam",
+            "email": "sam@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": "assets/img/av-sam.jpg",
+            "bio": "Board games, coffee and long talks.",
+            "interests": [
+                "Local outings"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 15,
+                "p": 4.4,
+                "r": 4.8,
+                "f": 4.7
+            }
+        },
+        {
+            "id": "u-farouk",
+            "kind": "member",
+            "name": "Farouk",
+            "email": "farouk@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Student · outdoors & photography",
+            "interests": [
+                "Outdoors"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 20,
+                "p": 4.4,
+                "r": 4.7,
+                "f": 4.8
+            }
+        },
+        {
+            "id": "u-mohit",
+            "kind": "member",
+            "name": "Mohit",
+            "email": "mohit@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Young professional, new in town",
+            "interests": [
+                "House parties"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 4,
+                "p": 4.3,
+                "r": 4.5,
+                "f": 4.3999999999999995
+            }
+        },
+        {
+            "id": "u-housnia",
+            "kind": "member",
+            "name": "Housnia",
+            "email": "housnia@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Expat who loves live music",
+            "interests": [
+                "Local outings"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 5,
+                "p": 4.4,
+                "r": 4.6000000000000005,
+                "f": 4.5
+            }
+        },
+        {
+            "id": "u-harish",
+            "kind": "member",
+            "name": "Harish Raj",
+            "email": "harish@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Always up for a walk",
+            "interests": [
+                "Weird & Fun",
+                "Outdoors"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 3,
+                "p": 3.9,
+                "r": 3.6,
+                "f": 4.1
+            }
+        },
+        {
+            "id": "u-mooez",
+            "kind": "member",
+            "name": "Mooez",
+            "email": "mooez@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Student · outdoors & photography",
+            "interests": [
+                "Outdoors"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 7,
+                "p": 4.6000000000000005,
+                "r": 4.800000000000001,
+                "f": 4.7
+            }
+        },
+        {
+            "id": "u-amara",
+            "kind": "member",
+            "name": "Amara",
+            "email": "amara@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Young professional, new in town",
+            "interests": [
+                "House parties"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 8,
+                "p": 4.7,
+                "r": 4.9,
+                "f": 4.8
+            }
+        },
+        {
+            "id": "u-leo",
+            "kind": "member",
+            "name": "Leo",
+            "email": "leo@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Expat who loves live music",
+            "interests": [
+                "Local outings"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 9,
+                "p": 4.8,
+                "r": 4.4,
+                "f": 4.8999999999999995
+            }
+        },
+        {
+            "id": "u-ines",
+            "kind": "member",
+            "name": "Inès",
+            "email": "ines@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Always up for a walk",
+            "interests": [
+                "Weird & Fun",
+                "Outdoors"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 3,
+                "p": 4.9,
+                "r": 4.5,
+                "f": 4.3
+            }
+        },
+        {
+            "id": "u-kofi",
+            "kind": "member",
+            "name": "Kofi",
+            "email": "kofi@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Student · outdoors & photography",
+            "interests": [
+                "Outdoors"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 4,
+                "p": 4.2,
+                "r": 4.6000000000000005,
+                "f": 4.3999999999999995
+            }
+        },
+        {
+            "id": "u-yuki",
+            "kind": "member",
+            "name": "Yuki",
+            "email": "yuki@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Young professional, new in town",
+            "interests": [
+                "House parties"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 5,
+                "p": 4.3,
+                "r": 4.7,
+                "f": 4.5
+            }
+        },
+        {
+            "id": "u-dara",
+            "kind": "member",
+            "name": "Dara",
+            "email": "dara@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Expat who loves live music",
+            "interests": [
+                "Local outings"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 6,
+                "p": 4.4,
+                "r": 4.800000000000001,
+                "f": 4.6
+            }
+        },
+        {
+            "id": "u-tomas",
+            "kind": "member",
+            "name": "Tomás",
+            "email": "tomas@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Always up for a walk",
+            "interests": [
+                "Weird & Fun",
+                "Outdoors"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 7,
+                "p": 4.5,
+                "r": 4.9,
+                "f": 4.7
+            }
+        },
+        {
+            "id": "u-zara",
+            "kind": "member",
+            "name": "Zara",
+            "email": "zara@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Student · outdoors & photography",
+            "interests": [
+                "Outdoors"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 8,
+                "p": 4.6000000000000005,
+                "r": 4.4,
+                "f": 4.8
+            }
+        },
+        {
+            "id": "u-ravi",
+            "kind": "member",
+            "name": "Ravi",
+            "email": "ravi@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Young professional, new in town",
+            "interests": [
+                "House parties"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 9,
+                "p": 4.7,
+                "r": 4.5,
+                "f": 4.8999999999999995
+            }
+        },
+        {
+            "id": "u-elena",
+            "kind": "member",
+            "name": "Elena",
+            "email": "elena@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Expat who loves live music",
+            "interests": [
+                "Local outings"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 3,
+                "p": 4.8,
+                "r": 4.6000000000000005,
+                "f": 4.3
+            }
+        },
+        {
+            "id": "u-bilal",
+            "kind": "member",
+            "name": "Bilal",
+            "email": "bilal@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Always up for a walk",
+            "interests": [
+                "Weird & Fun",
+                "Outdoors"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 4,
+                "p": 4.9,
+                "r": 4.7,
+                "f": 4.3999999999999995
+            }
+        },
+        {
+            "id": "u-chloe",
+            "kind": "member",
+            "name": "Chloé",
+            "email": "chloe@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Student · outdoors & photography",
+            "interests": [
+                "Outdoors"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 5,
+                "p": 4.2,
+                "r": 4.800000000000001,
+                "f": 4.5
+            }
+        },
+        {
+            "id": "u-sipho",
+            "kind": "member",
+            "name": "Sipho",
+            "email": "sipho@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Young professional, new in town",
+            "interests": [
+                "House parties"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 6,
+                "p": 4.3,
+                "r": 4.9,
+                "f": 4.6
+            }
+        },
+        {
+            "id": "u-mei",
+            "kind": "member",
+            "name": "Mei",
+            "email": "mei@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Expat who loves live music",
+            "interests": [
+                "Local outings"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 7,
+                "p": 4.4,
+                "r": 4.4,
+                "f": 4.7
+            }
+        },
+        {
+            "id": "u-omar",
+            "kind": "member",
+            "name": "Omar",
+            "email": "omar@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Always up for a walk",
+            "interests": [
+                "Weird & Fun",
+                "Outdoors"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 8,
+                "p": 4.5,
+                "r": 4.5,
+                "f": 4.8
+            }
+        },
+        {
+            "id": "u-noah",
+            "kind": "member",
+            "name": "Noah",
+            "email": "noah@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Student · outdoors & photography",
+            "interests": [
+                "Outdoors"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 9,
+                "p": 4.6000000000000005,
+                "r": 4.6000000000000005,
+                "f": 4.8999999999999995
+            }
+        },
+        {
+            "id": "u-aya",
+            "kind": "member",
+            "name": "Aya",
+            "email": "aya@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": null,
+            "bio": "Young professional, new in town",
+            "interests": [
+                "House parties"
+            ],
+            "languages": [
+                "English"
+            ],
+            "joinedAt": "2026-09-01T10:00:00+00:00",
+            "suspended": false,
+            "blocked": [],
+            "history": {
+                "n": 3,
+                "p": 4.7,
+                "r": 4.7,
+                "f": 4.3
+            }
+        },
+        {
+            "id": "u-karl",
+            "kind": "admin",
+            "role": "Moderator",
+            "name": "Karl",
+            "email": "karl@rockon.app",
+            "passwordHash": "$2y$10$aNht/jQiGCaR7aDRdD.Gzex9IVRaj/0Tj5l3.jAKIWDA6XwACtX9C",
+            "photo": "assets/img/av-karl.jpg",
+            "joinedAt": "2026-08-01T10:00:00+00:00",
+            "suspended": false
+        }
+    ],
+    "categories": [
+        {
+            "id": "outdoors",
+            "name": "Outdoors",
+            "icon": "🌳"
+        },
+        {
+            "id": "local",
+            "name": "Local outings",
+            "icon": "🧭"
+        },
+        {
+            "id": "party",
+            "name": "House parties",
+            "icon": "🎉"
+        },
+        {
+            "id": "weird",
+            "name": "Weird & Fun",
+            "icon": "🌀"
+        }
+    ],
+    "activities": [
+        {
+            "joinPolicy": "hostApproval",
+            "status": "published",
+            "minReputation": null,
+            "photo": "assets/img/picnic.jpg",
+            "tagline": "Let’s enjoy food with a beautiful view :)",
+            "createdAt": "2026-11-15T11:19:14+01:00",
+            "cancelReason": "",
+            "removedByModerator": false,
+            "id": "a-picnic",
+            "title": "Picnic near the lake!",
+            "categoryId": "outdoors",
+            "hostId": "u-maya",
+            "description": "Bring what you prefer to eat and what’s easier to share. We’ll spread a few blankets by the water and watch the sunset together.",
+            "date": "2026-11-23",
+            "startTime": "18:00",
+            "endTime": "22:00",
+            "placeId": "riverside",
+            "meetingPoint": "East gate",
+            "capacity": 16
+        },
+        {
+            "joinPolicy": "open",
+            "status": "published",
+            "minReputation": null,
+            "photo": "assets/img/party-login.jpg",
+            "tagline": "Music, city lights and new faces",
+            "createdAt": "2026-11-15T11:19:14+01:00",
+            "cancelReason": "",
+            "removedByModerator": false,
+            "id": "a-rooftop",
+            "title": "Rooftop Vibes Party",
+            "categoryId": "party",
+            "hostId": "u-farouk",
+            "description": "A relaxed rooftop evening with a small playlist and a view of the skyline. Soft drinks provided, bring something to share if you like.",
+            "date": "2026-11-20",
+            "startTime": "21:00",
+            "endTime": "23:00",
+            "placeId": "downtown",
+            "meetingPoint": "Lobby of 12 Market St.",
+            "capacity": 25
+        },
+        {
+            "joinPolicy": "hostApproval",
+            "status": "published",
+            "minReputation": 4,
+            "photo": "assets/img/blindgame.jpg",
+            "tagline": "A playful tasting challenge",
+            "createdAt": "2026-11-15T11:19:14+01:00",
+            "cancelReason": "",
+            "removedByModerator": false,
+            "id": "a-blind",
+            "title": "Blind, Mute and Deaf Game",
+            "categoryId": "weird",
+            "hostId": "u-maya",
+            "description": "A playful tasting challenge in City Square. Bring a small, labelled snack to share and tell us about any allergies. Participation is always optional.",
+            "date": "2026-11-22",
+            "startTime": "15:00",
+            "endTime": "16:30",
+            "placeId": "citysquare",
+            "meetingPoint": "Fountain entrance",
+            "capacity": 12
+        },
+        {
+            "joinPolicy": "hostApproval",
+            "status": "published",
+            "minReputation": null,
+            "photo": "assets/img/sunrise.jpg",
+            "tagline": "Catch the first light together",
+            "createdAt": "2026-11-15T11:19:14+01:00",
+            "cancelReason": "",
+            "removedByModerator": false,
+            "id": "a-sunrise",
+            "title": "Sunrise Park Walk",
+            "categoryId": "outdoors",
+            "hostId": "u-maya",
+            "description": "An easy 45-minute loop around the park, finishing at the lookout for sunrise. Comfortable shoes recommended; we walk at a chatty pace.",
+            "date": "2026-11-21",
+            "startTime": "07:00",
+            "endTime": "08:00",
+            "placeId": "riverside",
+            "meetingPoint": "Boathouse",
+            "capacity": 16
+        },
+        {
+            "joinPolicy": "open",
+            "status": "published",
+            "minReputation": null,
+            "photo": null,
+            "tagline": "Learn a new game, meet new people",
+            "createdAt": "2026-11-15T11:19:14+01:00",
+            "cancelReason": "",
+            "removedByModerator": false,
+            "id": "a-boardgames",
+            "title": "Board Games & Coffee",
+            "categoryId": "local",
+            "hostId": "u-sam",
+            "description": "Café table booked for the afternoon. I’ll bring Codenames, Azul and Dixit. Beginners very welcome.",
+            "date": "2026-11-19",
+            "startTime": "14:00",
+            "endTime": "17:00",
+            "placeId": "oldtown",
+            "meetingPoint": "Café Lumen, back room",
+            "capacity": 8
+        },
+        {
+            "joinPolicy": "hostApproval",
+            "status": "published",
+            "minReputation": null,
+            "photo": null,
+            "tagline": "Free entry Thursday",
+            "createdAt": "2026-11-15T11:19:14+01:00",
+            "cancelReason": "",
+            "removedByModerator": false,
+            "id": "a-museum",
+            "title": "Late Night at the Museum",
+            "categoryId": "local",
+            "hostId": "u-clauvie",
+            "description": "The city museum is open late with free entry. Let’s explore the modern art floor and grab a hot chocolate after.",
+            "date": "2026-11-26",
+            "startTime": "19:00",
+            "endTime": "21:30",
+            "placeId": "campus",
+            "meetingPoint": "Main steps",
+            "capacity": 10
+        },
+        {
+            "joinPolicy": "open",
+            "status": "published",
+            "minReputation": null,
+            "photo": null,
+            "tagline": "Homemade kites encouraged",
+            "createdAt": "2026-11-15T11:19:14+01:00",
+            "cancelReason": "",
+            "removedByModerator": false,
+            "id": "a-kites",
+            "title": "Kite Flying at the Harbour",
+            "categoryId": "weird",
+            "hostId": "u-lina",
+            "description": "Bring a kite, or build one with us from paper and sticks. Prize for the most ridiculous design.",
+            "date": "2026-11-30",
+            "startTime": "11:00",
+            "endTime": "13:00",
+            "placeId": "harbour",
+            "meetingPoint": "Pier 3",
+            "capacity": 20
+        },
+        {
+            "joinPolicy": "open",
+            "status": "published",
+            "minReputation": null,
+            "photo": null,
+            "tagline": "Murals of the old quarter",
+            "createdAt": "2026-11-15T11:19:14+01:00",
+            "cancelReason": "",
+            "removedByModerator": false,
+            "id": "a-streetart",
+            "title": "Street Art Tour",
+            "categoryId": "local",
+            "hostId": "u-nour",
+            "description": "A two-hour walk through the murals of the old quarter with stories about the artists.",
+            "date": "2026-11-16",
+            "startTime": "14:00",
+            "endTime": "16:00",
+            "placeId": "oldtown",
+            "meetingPoint": "Clock tower",
+            "capacity": 10
+        },
+        {
+            "joinPolicy": "open",
+            "status": "published",
+            "minReputation": null,
+            "photo": null,
+            "tagline": "Cold water, warm company",
+            "createdAt": "2026-11-15T11:19:14+01:00",
+            "cancelReason": "",
+            "removedByModerator": false,
+            "id": "a-swim",
+            "title": "Morning Lake Swim",
+            "categoryId": "outdoors",
+            "hostId": "u-max",
+            "description": "A quick dip followed by tea from a flask.",
+            "date": "2026-11-06",
+            "startTime": "08:00",
+            "endTime": "09:00",
+            "placeId": "riverside",
+            "meetingPoint": "Small beach",
+            "capacity": 8
+        }
+    ],
+    "participations": [
+        {
+            "id": "p-1",
+            "memberId": "u-maya",
+            "activityId": "a-picnic",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-2",
+            "memberId": "u-max",
+            "activityId": "a-picnic",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-3",
+            "memberId": "u-lina",
+            "activityId": "a-picnic",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-4",
+            "memberId": "u-sam",
+            "activityId": "a-picnic",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-5",
+            "memberId": "u-ojaswi",
+            "activityId": "a-picnic",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-6",
+            "memberId": "u-farouk",
+            "activityId": "a-picnic",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-7",
+            "memberId": "u-mohit",
+            "activityId": "a-picnic",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-8",
+            "memberId": "u-housnia",
+            "activityId": "a-picnic",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-9",
+            "memberId": "u-harish",
+            "activityId": "a-picnic",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-10",
+            "memberId": "u-mooez",
+            "activityId": "a-picnic",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-11",
+            "memberId": "u-amara",
+            "activityId": "a-picnic",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-12",
+            "memberId": "u-farouk",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-13",
+            "memberId": "u-maya",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-17T05:19:14+01:00"
+        },
+        {
+            "id": "p-14",
+            "memberId": "u-mohit",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-15",
+            "memberId": "u-housnia",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-16",
+            "memberId": "u-harish",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-17",
+            "memberId": "u-mooez",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-18",
+            "memberId": "u-amara",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-19",
+            "memberId": "u-leo",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-20",
+            "memberId": "u-ines",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-21",
+            "memberId": "u-kofi",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-22",
+            "memberId": "u-yuki",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-23",
+            "memberId": "u-dara",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-24",
+            "memberId": "u-tomas",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-25",
+            "memberId": "u-zara",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-26",
+            "memberId": "u-ravi",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-27",
+            "memberId": "u-elena",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-28",
+            "memberId": "u-bilal",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-29",
+            "memberId": "u-chloe",
+            "activityId": "a-rooftop",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-30",
+            "memberId": "u-maya",
+            "activityId": "a-blind",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-31",
+            "memberId": "u-maya",
+            "activityId": "a-sunrise",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-32",
+            "memberId": "u-amara",
+            "activityId": "a-sunrise",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-33",
+            "memberId": "u-leo",
+            "activityId": "a-sunrise",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-34",
+            "memberId": "u-ines",
+            "activityId": "a-sunrise",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-35",
+            "memberId": "u-kofi",
+            "activityId": "a-sunrise",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-36",
+            "memberId": "u-yuki",
+            "activityId": "a-sunrise",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-37",
+            "memberId": "u-dara",
+            "activityId": "a-sunrise",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-38",
+            "memberId": "u-tomas",
+            "activityId": "a-sunrise",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-39",
+            "memberId": "u-zara",
+            "activityId": "a-sunrise",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-40",
+            "memberId": "u-ravi",
+            "activityId": "a-sunrise",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-41",
+            "memberId": "u-elena",
+            "activityId": "a-sunrise",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-42",
+            "memberId": "u-smriti",
+            "activityId": "a-sunrise",
+            "status": "pending",
+            "joinedAt": "2026-11-18T08:19:14+01:00"
+        },
+        {
+            "id": "p-43",
+            "memberId": "u-clauvie",
+            "activityId": "a-sunrise",
+            "status": "pending",
+            "joinedAt": "2026-11-18T06:19:14+01:00"
+        },
+        {
+            "id": "p-44",
+            "memberId": "u-sam",
+            "activityId": "a-boardgames",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-45",
+            "memberId": "u-mike",
+            "activityId": "a-boardgames",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-46",
+            "memberId": "u-dara",
+            "activityId": "a-boardgames",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-47",
+            "memberId": "u-clauvie",
+            "activityId": "a-museum",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-48",
+            "memberId": "u-nour",
+            "activityId": "a-museum",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-49",
+            "memberId": "u-lina",
+            "activityId": "a-kites",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-50",
+            "memberId": "u-max",
+            "activityId": "a-kites",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-51",
+            "memberId": "u-yuki",
+            "activityId": "a-kites",
+            "status": "accepted",
+            "joinedAt": "2026-11-16T11:19:14+01:00"
+        },
+        {
+            "id": "p-52",
+            "memberId": "u-nour",
+            "activityId": "a-streetart",
+            "status": "accepted",
+            "joinedAt": "2026-11-13T11:19:14+01:00"
+        },
+        {
+            "id": "p-53",
+            "memberId": "u-maya",
+            "activityId": "a-streetart",
+            "status": "accepted",
+            "joinedAt": "2026-11-13T11:19:14+01:00"
+        },
+        {
+            "id": "p-54",
+            "memberId": "u-mike",
+            "activityId": "a-streetart",
+            "status": "accepted",
+            "joinedAt": "2026-11-13T11:19:14+01:00"
+        },
+        {
+            "id": "p-55",
+            "memberId": "u-ojaswi",
+            "activityId": "a-streetart",
+            "status": "accepted",
+            "joinedAt": "2026-11-13T11:19:14+01:00"
+        },
+        {
+            "id": "p-56",
+            "memberId": "u-max",
+            "activityId": "a-swim",
+            "status": "accepted",
+            "joinedAt": "2026-11-01T19:19:14+01:00"
+        },
+        {
+            "id": "p-57",
+            "memberId": "u-maya",
+            "activityId": "a-swim",
+            "status": "accepted",
+            "joinedAt": "2026-11-01T19:19:14+01:00"
+        }
+    ],
+    "ratings": [
+        {
+            "id": "r-1",
+            "raterId": "u-ojaswi",
+            "ratedId": "u-maya",
+            "activityId": "a-streetart",
+            "punctuality": 5,
+            "respect": 5,
+            "fun": 5,
+            "comment": "Lovely company, asked great questions.",
+            "date": "2026-11-17T15:19:14+01:00",
+            "isReleased": false
+        }
+    ],
+    "messages": [
+        {
+            "id": "m-1",
+            "activityId": "a-rooftop",
+            "memberId": "u-farouk",
+            "content": "Welcome everyone! The lift goes straight to the 9th floor.",
+            "sentAt": "2026-11-17T09:19:14+01:00"
+        },
+        {
+            "id": "m-2",
+            "activityId": "a-rooftop",
+            "memberId": "u-maya",
+            "content": "Thanks Farouk! Should we bring anything?",
+            "sentAt": "2026-11-17T10:19:14+01:00"
+        },
+        {
+            "id": "m-3",
+            "activityId": "a-rooftop",
+            "memberId": "u-farouk",
+            "content": "Just yourselves. Maybe a snack to share 🙂",
+            "sentAt": "2026-11-17T11:19:14+01:00"
+        },
+        {
+            "id": "m-4",
+            "activityId": "a-picnic",
+            "memberId": "u-maya",
+            "content": "I’ll bring two big blankets and a speaker. Who has a frisbee?",
+            "sentAt": "2026-11-18T01:19:14+01:00"
+        },
+        {
+            "id": "m-5",
+            "activityId": "a-picnic",
+            "memberId": "u-max",
+            "content": "Me! And lemonade.",
+            "sentAt": "2026-11-18T02:19:14+01:00"
+        }
+    ],
+    "reports": [
+        {
+            "id": "R-026",
+            "reporterId": "u-mooez",
+            "targetType": "activity",
+            "targetId": "a-rooftop",
+            "reason": "Misleading meeting location",
+            "summary": "The reporter says the meeting address differs from the public listing. The submitted excerpt describes an unannounced location change.",
+            "excerpt": "The listing said Downtown, but I received a different address without an explanation.",
+            "date": "2026-11-17T05:19:14+01:00",
+            "status": "inReview",
+            "resolution": null
+        },
+        {
+            "id": "R-027",
+            "reporterId": "u-amara",
+            "targetType": "member",
+            "targetId": "u-harish",
+            "reason": "Unwanted contact",
+            "summary": "The reporter says this member kept sending private messages after being asked to stop.",
+            "excerpt": "I said I wasn’t interested and he kept messaging me about meeting alone.",
+            "date": "2026-11-17T07:19:14+01:00",
+            "status": "open",
+            "resolution": null
+        },
+        {
+            "id": "R-019",
+            "reporterId": "u-leo",
+            "targetType": "activity",
+            "targetId": "a-kites",
+            "reason": "Spam",
+            "summary": "Reporter thought the listing was an advert. Reviewed: genuine community activity.",
+            "excerpt": "",
+            "date": "2026-11-10T03:19:14+01:00",
+            "status": "resolved",
+            "resolution": "Closed with no action"
+        }
+    ],
+    "notifications": [
+        {
+            "id": "n-1",
+            "memberId": "u-maya",
+            "type": "request",
+            "content": "Smriti G C requested a place",
+            "detail": "Sunrise Park Walk · Review the request.",
+            "link": "dashboard.php",
+            "isRead": false,
+            "at": "2026-11-18T08:19:14+01:00"
+        },
+        {
+            "id": "n-2",
+            "memberId": "u-maya",
+            "type": "request",
+            "content": "Clauvie Belange wants to join",
+            "detail": "Sunrise Park Walk · 5 places still open.",
+            "link": "dashboard.php",
+            "isRead": false,
+            "at": "2026-11-18T06:19:14+01:00"
+        },
+        {
+            "id": "n-3",
+            "memberId": "u-maya",
+            "type": "rating",
+            "content": "How was Street Art Tour?",
+            "detail": "Your feedback window is open for 7 days.",
+            "link": "rate.php?id=a-streetart",
+            "isRead": false,
+            "at": "2026-11-17T15:19:14+01:00"
+        },
+        {
+            "id": "n-4",
+            "memberId": "u-maya",
+            "type": "accepted",
+            "content": "You’re in: Rooftop Vibes Party",
+            "detail": "The participant chat is now open.",
+            "link": "activity.php?id=a-rooftop",
+            "isRead": true,
+            "at": "2026-11-17T05:19:14+01:00"
+        },
+        {
+            "id": "n-5",
+            "memberId": "u-ojaswi",
+            "type": "reminder",
+            "content": "Picnic near the lake! is coming up",
+            "detail": "Riverside Park · East gate",
+            "link": "activity.php?id=a-picnic",
+            "isRead": false,
+            "at": "2026-11-18T05:19:14+01:00"
+        }
+    ]
+}
